@@ -1,0 +1,35 @@
+﻿@model Front_Conversao.Models.ConversaoViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <form asp-controller="Home" asp-action="Index" method="post" class="form-horizontal">
+            <h3>Escolha a moeda:</h3>
+            De:
+            <select asp-for="De">
+                @foreach(var item in Model.CurrenciesList.currencies)
+                {
+                    <option value="@item.Name">@item.Value</option>
+                }
+            </select>
+            <br />
+            Para:
+            <select asp-for="Para">
+                @foreach(var item in Model.CurrenciesList.currencies)
+                {
+                    <option value="@item.Name">@item.Value</option>
+                }
+            </select>
+            Valor:
+            <input asp-for="Valor" value="1,00"/>
+            <button type="submit" class="btn btn-primary btn-flat m-b-30 m-t-30">Converter</button>
+        </form>
+        @if(TempData["resultado"] != null)
+        {
+            <label>Resultado: </label>
+            <label>@TempData["resultado"]</label>
+        }        
+    </div>
+</div>

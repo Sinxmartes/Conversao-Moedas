@@ -1,0 +1,11 @@
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\bin\Debug\netcoreapp2.0\Conversao.deps.json
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\bin\Debug\netcoreapp2.0\Conversao.runtimeconfig.json
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\bin\Debug\netcoreapp2.0\Conversao.runtimeconfig.dev.json
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\bin\Debug\netcoreapp2.0\Conversao.dll
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\bin\Debug\netcoreapp2.0\Conversao.pdb
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\obj\Debug\netcoreapp2.0\Conversao.csprojResolveAssemblyReference.cache
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\obj\Debug\netcoreapp2.0\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\obj\Debug\netcoreapp2.0\Conversao.AssemblyInfoInputs.cache
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\obj\Debug\netcoreapp2.0\Conversao.AssemblyInfo.cs
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\obj\Debug\netcoreapp2.0\Conversao.dll
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Conversao\obj\Debug\netcoreapp2.0\Conversao.pdb

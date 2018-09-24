@@ -1,0 +1,14 @@
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\bin\Debug\netcoreapp2.0\Front-Conversao.deps.json
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\bin\Debug\netcoreapp2.0\Front-Conversao.runtimeconfig.json
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\bin\Debug\netcoreapp2.0\Front-Conversao.runtimeconfig.dev.json
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\bin\Debug\netcoreapp2.0\Front-Conversao.dll
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\bin\Debug\netcoreapp2.0\Front-Conversao.pdb
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\bin\Debug\netcoreapp2.0\Conversao.dll
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\bin\Debug\netcoreapp2.0\Conversao.pdb
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\obj\Debug\netcoreapp2.0\Front-Conversao.csprojResolveAssemblyReference.cache
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\obj\Debug\netcoreapp2.0\Front-Conversao.csproj.CoreCompileInputs.cache
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\obj\Debug\netcoreapp2.0\Front-Conversao.AssemblyInfoInputs.cache
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\obj\Debug\netcoreapp2.0\Front-Conversao.AssemblyInfo.cs
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\obj\Debug\netcoreapp2.0\Front-Conversao.csproj.CopyComplete
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\obj\Debug\netcoreapp2.0\Front-Conversao.dll
+C:\Users\marcoprm\Documents\API-Conversao\Conversao\Front-Conversao\obj\Debug\netcoreapp2.0\Front-Conversao.pdb
